@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/0-profile-details.svg" height="220px" />
+  <img align="center" src="https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/radical/0-profile-details.svg" height="220px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasatakaIwata&show_icons=true&theme=radical" height="158px" />
