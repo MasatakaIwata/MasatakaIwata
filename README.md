@@ -46,3 +46,4 @@
 [![](https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasatakaIwata&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MasatakaIwata&repo=MasatakaIwata)](https://github.com/anuraghazra/github-readme-stats)
