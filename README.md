@@ -43,7 +43,15 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 
-[![](https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasatakaIwata&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MasatakaIwata&repo=MasatakaIwata)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="center" src="https://raw.githubusercontent.com/MasatakaIwata/MasatakaIwata/master/profile-summary-card-output/2077/0-profile-details.svg" height="220px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasatakaIwata&show_icons=true&theme=radical" height="158px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaIwata&theme=radical" height="158px" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MasatakaIwata&theme=radical&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
+</a>
