@@ -1,4 +1,6 @@
 <h2>About me</h2>
+<p>I am majoring in AI, Machine Learning at university.</p>
+<p>Currently enrolled at Sun Moon University in Korea.</p>
 <p>&#9658 I Love <strong>"Anime"<strong>!<p>
 <p>&#9658 I Love <strong>"Music"<strong>!<p>
 <hr>
