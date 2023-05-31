@@ -52,7 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasatakaIwata&show_icons=true&theme=radical" height="158px" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaIwata&theme=radical" height="158px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatakaIwata&layout=compact&theme=radical" height="158px" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=MasatakaIwata&theme=radical&title=Joined2020,Commit,PullRequest,Repositories,Issues" height="151px" />
